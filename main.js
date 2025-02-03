@@ -24,4 +24,4 @@ console.log(typeof false) //boolean
 let name = "Маша"
 console.log("Добро пожаловать на курс " + name)
 
-document.getElementById
+document.getElementById("one").innerHTML = "Hello world"
